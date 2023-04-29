@@ -5,4 +5,6 @@ do sea e lesno
 aj ke vidime ponatamu kako ke bide
 
 tuka ima i changes sea
+ova se novi changes 
 
+i sea treba na ova da mu napraime fetch i pull za da stigne u intellij
